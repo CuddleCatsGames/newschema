@@ -1,12 +1,12 @@
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
+{                                                                           
+  "@context": "https://schema.org",                                         
+  "@type": "VideoObject",                                                   
   "@id": "video.https://www.power2ship.com/nevada-auto-shippingvideoObject",
-  "url": "https://www.power2ship.com/nevada-auto-shipping",
-  "name": "Nevada Auto Shipping",
-  "description": "Auto shipping is a vital part of vehicle transportation and can be especially important for those moving to or from Nevada residents and bus
-inesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
+  "url": "https://www.power2ship.com/nevada-auto-shipping",                 
+  "name": "Nevada Auto Shipping",                                           
+  "description": "Auto shipping is a vital part of vehicle transportation and can be especially important for those moving to or from Nevada. Nevada residents
+ and businesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
   "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/nevada-auto-shipping.png",
   "uploadDate": "2023-06-21",
   "contentUrl": "https://www.youtube.com/watch?v=H5z9Rpw2Enc",
