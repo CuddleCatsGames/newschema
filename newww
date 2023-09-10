@@ -1,34 +1,19 @@
 <script>
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "video.https://www.power2ship.com/nevada-auto-shippingvideoObject",
+  "url": "https://www.power2ship.com/nevada-auto-shipping",
+  "name": "Nevada Auto Shipping",
+  "description": "Auto shipping is a vital part of vehicle transportation and can be especially important for those moving to or from Nevada residents and bus
+inesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/nevada-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=H5z9Rpw2Enc",
+  "embedUrl": "https://www.youtube.com/watch?v=H5z9Rpw2Enc",
+  "duration": "PT1M2S",
+  "regionsAllowed": "US"
+}
 
-	const video = {
-		p2sUrl: "https://www.power2ship.com/nevada-auto-shipping", // the url of the P2S state landing page - NOT the youtube or embed url
-		state: "Nevada", // full name of the state, capitalized ex: New Jersey
-		youtubeUrl: "https://www.youtube.com/watch?v=H5z9Rpw2Enc", // the video's youtube url
-		duration: {
-			min: "1min", // total video mins
-			sec: ".02sec" // total video seconds
-		}
-	}
-
-	const schema = {
-		"@context": "https://schema.org",
-		"@type": "VideoObject",
-		"@id": video.https://www.power2ship.com/nevada-auto-shipping+videoObject",
-		"url": video.https://www.power2ship.com/nevada-auto-shipping,
-		"name": Nevada Auto Shipping",
-		"description": "If you're planning to move your vehicle to or from Nevada, it's important to choose a reliable and experienced auto shipping company that can handle your needs. Power2Ship is one such company, offering top-notch auto shipping services throughout the state of Nevada and beyond." + video.state + ". " + video.state + " residents and businesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
-		"thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/nevada-auto-shipping.png",
-		"uploadDate": "2023-08-23",
-		"contentUrl": https://www.youtube.com/watch?v=H5z9Rpw2Enc,
-		"embedUrl": https://www.youtube.com/watch?v=H5z9Rpw2Enc,
-		"duration": "PT" + video.duration.min + "1M" + video.duration.sec + ".02S",
-		"regionsAllowed": "US"
-	}
-
-	// add to dom
-	const script = document.createElement('script');
-	script.type = "application/ld+json";
-	script.text = JSON.stringify(schema);
-	document.querySelector('head').appendChild(script);
 
 </script>
