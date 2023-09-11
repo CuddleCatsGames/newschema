@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-hampshire-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-hampshire-shipping",
+  "name": "New Hampshire Auto Shipping",
+  "description": "If you're looking for a reliable out of state auto transport company in New Hampshire, consider working with Power2Ship. Our team of experienced professionals provides the highest quality of service and is dedicated to getting your vehicle safely to its destination.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-hampshire-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=uP5TPG5B1tg",
+  "embedUrl": "https://www.youtube.com/embed/uP5TPG5B1tg",
+  "duration": "PT1M36S",
+  "regionsAllowed": "US"
+}
+</script>
