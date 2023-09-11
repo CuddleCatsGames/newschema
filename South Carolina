@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/south-carolina-shipping#videoObject",
+  "url": "https://www.power2ship.com/south-carolina-shipping",
+  "name": "South Carolina Auto Shipping",
+  "description": "If you're looking for an auto shipping company in South Carolina that can provide affordable pricing, convenient pickup and delivery, safe and reliable transportation, comprehensive insurance coverage, and excellent customer service, look no further than Power2Ship. ",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/south-carolina-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=OpICH6ILR74",
+  "embedUrl": "https://www.youtube.com/embed/OpICH6ILR74",
+  "duration": "PT1M14S",
+  "regionsAllowed": "US"
+}
+</script>
