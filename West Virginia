@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/west-virginia-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/west-virginia-auto-shipping",
+  "name": "West Virginia Auto Shipping",
+  "description": "Auto shipping is a convenient and cost-effective way to transport your vehicle, especially if you're moving to or from West Virginia. Whether you need to transport a car, truck, motorcycle or any other type of vehicle, Power2Ship can help you get it done quickly and efficiently.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/west-virginia-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=hUcrZ7BqPZQ",
+  "embedUrl": "https://www.youtube.com/embed/hUcrZ7BqPZQ",
+  "duration": "PT1M23S",
+  "regionsAllowed": "US"
+}
+</script>
