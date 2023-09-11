@@ -2,15 +2,382 @@
 {                                                                           
   "@context": "https://schema.org",                                         
   "@type": "VideoObject",                                                   
-  "@id": "video.https://www.power2ship.com/nevada-auto-shippingvideoObject",
+  "@id": "https://www.power2ship.com/nevada-auto-shipping#videoObject",
   "url": "https://www.power2ship.com/nevada-auto-shipping",                 
   "name": "Nevada Auto Shipping",                                           
   "description": "Auto shipping is a vital part of vehicle transportation at Nevada. Nevada residents and businesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
   "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/nevada-auto-shipping.png",
   "uploadDate": "2023-06-21",
   "contentUrl": "https://www.youtube.com/watch?v=H5z9Rpw2Enc",
-  "embedUrl": "https://www.youtube.com/watch?v=H5z9Rpw2Enc",
+  "embedUrl": "https://www.youtube.com/embed/H5z9Rpw2Enc",
   "duration": "PT1M2S",
   "regionsAllowed": "US"
 }
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/nebraska-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/nebraska-auto-shipping",
+  "name": "Nebraska Auto Shipping",
+  "description": "Are you looking for a reliable and affordable solution for shipping your vehicle to or from Nebraska? Look no further than Power2Ship. Our team of experienced professionals is dedicated to providing top-notch auto shipping services to customers throughout the state.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/nebraska-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "video.https://www.youtube.com/watch?v=cj7mBffVPW8",
+  "embedUrl": "video.https://www.youtube.com/embed/cj7mBffVPW8.replace",
+  "duration": "PT1M31S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-mexico-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-mexico-auto-shipping",
+  "name": "New Mexico Auto Shipping",
+  "description": "Auto shipping is a crucial aspect of vehicle transportation and can be especially important for those moving to or from New Mexico. New Mexico residents and businesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-mexico-auto-shipping.png",
+  "uploadDate": "2023-06-09",
+  "contentUrl": "video.https://www.youtube.com/watch?v=n6ut_3gn9rE",
+  "embedUrl": "https://www.youtube.com/embed/n6ut_3gn9rE.replace",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/south-dakota-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/south-dakota-auto-shipping",
+  "name": "South Dakota Auto Shipping",
+  "description": "Are you looking for a reliable and affordable solution for shipping your vehicle from or to South Dakota? Look no further than Power2Ship.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/south-dakota-auto-shipping.png",
+  "uploadDate": "2023-08-09",
+  "contentUrl": "https://www.youtube.com/watch?v=7Hkh-p-Uu-o",
+  "embedUrl": "https://www.youtube.com/embed/7Hkh-p-Uu-o.replace",
+  "duration": "PT1M1S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/wisconsin-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/wisconsin-auto-shipping",
+  "name": "Wisconsin Auto Shipping",
+  "description": "Are you tired of dealing with the hassle of finding a reliable auto shipping company? Look no further than Power2Ship, the leading provider of auto shipping services in Wisconsin.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/wisconsin-auto-shipping.png",
+  "uploadDate": "2023-08-09",
+  "contentUrl": "https://www.youtube.com/watch?v=kYIEEYximUI",
+  "embedUrl": "https://www.youtube.com/embed/kYIEEYximUI.replace",
+  "duration": "PT1M18S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/wyoming-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/wyoming-auto-shipping",
+  "name": "Wyoming Auto Shipping",
+  "description": "Auto shipping in Wyoming can be a great option for those looking to transport their vehicle from one location to another. Power2Ship is a reliable and experienced auto shipping company that offers a variety of services to meet your needs.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/wyoming-auto-shipping.png",
+  "uploadDate": "2023-08-09",
+  "contentUrl": "https://www.youtube.com/watch?v=U0bKKeG0iC8",
+  "embedUrl": "https://www.youtube.com/embed/U0bKKeG0iC8.replace",
+  "duration": "PT1M21S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/missouri-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/missouri-auto-shipping",
+  "name": "Missouri Auto Shipping",
+  "description": "Power2Ship is a leading provider of auto shipping services in Missouri. Our team of experienced professionals is committed to providing reliable and efficient shipping solutions for our customers, no matter where their vehicle is going.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/missouri-auto-shipping.png",
+  "uploadDate": "2023-08-09",
+  "contentUrl": "https://www.youtube.com/watch?v=Vt4ySVB2TQc",
+  "embedUrl": "https://www.youtube.com/embed/Vt4ySVB2TQc.replace",
+  "duration": "PT1M5S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/mississippi-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/mississippi-auto-shipping",
+  "name": "Mississippi Auto Shipping",
+  "description": "Power2Ship is a leading provider of auto shipping services in Mississippi. Our team of experienced professionals is committed to providing reliable and efficient shipping solutions for our customers, no matter where their vehicle is going.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/mississippi-auto-shipping.png",
+  "uploadDate": "2023-08-09",
+  "contentUrl": "https://www.youtube.com/watch?v=BriwXMP6IaU",
+  "embedUrl": "https://www.youtube.com/embed/BriwXMP6IaU.replace",
+  "duration": "PT1M9S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/minnesota-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/minnesota-auto-shipping",
+  "name": "Minnesota Auto Shipping",
+  "description": "When it comes to shipping your vehicle in Minnesota, Power2Ship has you covered. Our team of experienced professionals provides reliable, affordable, and efficient auto shipping services throughout the state and beyond.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/minnesota-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=DJD21eNyypM",
+  "embedUrl": "https://www.youtube.com/embed/DJD21eNyypM.replace",
+  "duration": "PT0M58S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/kansas-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/kansas-auto-shipping",
+  "name": "Kansas Auto Shipping",
+  "description": "If you are looking for a reliable and affordable auto shipping service in Kansas, then look no further than Power2Ship.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/kansas-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=Sn7BYKN2-7M",
+  "embedUrl": "https://www.youtube.com/embed/Sn7BYKN2-7M.replace",
+  "duration": "PT1M13S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/indiana-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/indiana-auto-shipping",
+  "name": "Indiana Auto Shipping",
+  "description": "With our fast, reliable, and affordable services, you can count on us to get your vehicle safely and on time. Get a quote today and see why Power2Ship is the best choice for auto shipping in Indiana.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/indiana-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=WEjFxXntT-8",
+  "embedUrl": "https://www.youtube.com/embed/WEjFxXntT-8.replace",
+  "duration": "PT0M59S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/illinois-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/illinois-auto-shipping",
+  "name": "Illinois Auto Shipping",
+  "description": "If you're looking for a reliable auto transport service in Illinois, you can't go wrong with Power2Ship. We're the leading provider of auto shipping services for customers who need to transport their vehicle from one residence to another.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/illinois-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=zPXmK4LLgZo",
+  "embedUrl": "https://www.youtube.com/embed/zPXmK4LLgZo.replace",
+  "duration": "PT1M11S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/louisiana-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/louisiana-auto-shipping",
+  "name": "Louisiana Auto Shipping",
+  "description": "If you're in need of auto shipping services in Louisiana, look no further than Power2Ship. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Louisiana or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/louisiana-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=O3R_peM4sG0",
+  "embedUrl": "https://www.youtube.com/embed/O3R_peM4sG0.replace",
+  "duration": "PT1M12S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/utah-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/utah-auto-shipping",
+  "name": "Utah Auto Shipping",
+  "description": "Auto shipping is a convenient and stress-free way to transport your vehicle from one place to another. Whether you're relocating to Utah or simply moving a car across town, Power2Ship is the top choice for Utah auto shipping.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/utah-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=-5rHW6sug8g",
+  "embedUrl": "https://www.youtube.com/embed/-5rHW6sug8g.replace",
+  "duration": "PT0M56S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/texas-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/texas-auto-shipping",
+  "name": "Texas Auto Shipping",
+  "description": "Are you moving to Texas or shipping a car within the state? Look no further than Power2Ship for your auto shipping needs.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/utah-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=6WLLvUhgOQ4",
+  "embedUrl": "https://www.youtube.com/embed/6WLLvUhgOQ4.replace",
+  "duration": "PT1M12S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/oklahoma-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/oklahoma-auto-shipping",
+  "name": "Oklahoma Auto Shipping",
+  "description": "Are you looking to transport your vehicle from or to Oklahoma? Power2Ship is here to make your auto shipping experience hassle-free and convenient.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/oklahoma-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=-O6P0tF1Fss",
+  "embedUrl": "https://www.youtube.com/embed/-O6P0tF1Fss.replace",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/ohio-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/ohio-auto-shipping",
+  "name": "Ohio Auto Shipping",
+  "description": "When it comes to shipping your car to or from Ohio, you want a company that you can trust to get the job done right. That's where Power2Ship comes in. With years of experience and a commitment to quality service, we're your go-to choice for auto shipping in Ohio.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/ohio-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=z9aHMiJbsyw",
+  "embedUrl": "https://www.youtube.com/embed/z9aHMiJbsyw.replace",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/ohio-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/ohio-auto-shipping",
+  "name": "Arizona Auto Shipping",
+  "description": "With Power2ship’s Arizona Auto Shipping services, you can be sure that you’ll get the best deal and the best service for your vehicle. Contact us today and let us help you find the right auto shipper for your needs.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/ohio-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=ChDF7yisd-4",
+  "embedUrl": "https://www.youtube.com/embed/ChDF7yisd-4.replace",
+  "duration": "PT0M50S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/idaho-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/idaho-auto-shipping",
+  "name": "Idaho Auto Shipping",
+  "description": "At Power2Ship, we’re committed to providing the best Idaho auto shipping services available. Our team of experienced professionals is here to help make your shipping experience as stress-free as possible.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/idaho-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=NeLpxpEJqKQ",
+  "embedUrl": "https://www.youtube.com/embed/NeLpxpEJqKQ.replace",
+  "duration": "PT1M13S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/north-dakota-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/north-dakota-auto-shipping",
+  "name": "North Dakota Auto Shipping",
+  "description": "If you're looking to ship your car to or from North Dakota, you want a company that you can trust to get the job done right. That's where Power2Ship comes in. With years of experience and a commitment to quality service, we're your go-to choice for auto shipping in North Dakota.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/north-dakota-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=zHI1IjZ2Xzw",
+  "embedUrl": "https://www.youtube.com/embed/zHI1IjZ2Xzw.replace",
+  "duration": "PT1M09S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/montana-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/montana-auto-shipping",
+  "name": "Montana Auto Shipping",
+  "description": "When it comes to shipping a vehicle in Montana, it's important to choose a reliable and experienced auto shipping company. That's where Power2Ship comes in. We are a leading provider of auto shipping services in Montana!",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/montana-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=SQuoTmzvWeI",
+  "embedUrl": "https://www.youtube.com/embed/SQuoTmzvWeI",
+  "duration": "PT1M12S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/washington-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/washington-auto-shipping",
+  "name": "Washington Auto Shipping",
+  "description": "Washington is a hub for automobile transportation, and Power2Ship is a reliable and efficient auto shipping company that operates from this state.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/washington-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=bjpPS8hPI6s",
+  "embedUrl": "https://www.youtube.com/embed/bjpPS8hPI6s",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/oregon-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/oregon-auto-shipping",
+  "name": "Oregon Auto Shipping",
+  "description": "Are you looking to ship your vehicle to or from the beautiful state of Oregon? Look no further than Power2Ship, the leading provider of autoshipping services in the Pacific Northwest.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/oregon-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=mpBhxXYJ4oA",
+  "embedUrl": "https://www.youtube.com/embed/mpBhxXYJ4oA",
+  "duration": "PT1M20S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/michigan-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/michigan-auto-shipping",
+  "name": "Michigan Auto Shipping",
+  "description": "If you're looking for a reliable and affordable solution for auto shipping in Michigan, look no further than Power2Ship. Our team of experts provides safe and secure transportation for your vehicle, no matter where you need it shipped within the state or beyond.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/michigan-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=U4jtc3oV02c",
+  "embedUrl": "https://www.youtube.com/embed/U4jtc3oV02c",
+  "duration": "PT1M05S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/tennessee-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/tennessee-auto-shipping",
+  "name": "Tennessee Auto Shipping",
+  "description": "Are you planning to transport your vehicle to or from Tennessee? Look no further than Power2Ship for a stress-free and reliable auto shipping experience.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/tennessee-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=84XkiMftMWY",
+  "embedUrl": "https://www.youtube.com/embed/84XkiMftMWY",
+  "duration": "PT1M05S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/georgia-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/georgia-auto-shipping",
+  "name": "Georgia Auto Shipping",
+  "description": "Power2Ship is the perfect choice for auto shipping to and from Georgia. We offer competitive rates and reliable service, so you can trust that your vehicle will be shipped safely and on time. Our team of experienced professionals will work with you to ensure that your vehicle is shipped safely and securely.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/georgia-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=SG9lAif2qxI",
+  "embedUrl": "https://www.youtube.com/embed/SG9lAif2qxI",
+  "duration": "PT0M53S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/west-virginia-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/gwest-virginia-auto-shipping",
+  "name": "West Virginia Auto Shipping",
+  "description": "Auto shipping is a convenient and cost-effective way to transport your vehicle, especially if you're moving to or from West Virginia. Whether you need to transport a car, truck, motorcycle or any other type of vehicle, Power2Ship can help you get it done quickly and efficiently.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/georgia-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=hUcrZ7BqPZQ",
+  "embedUrl": "https://www.youtube.com/embed/hUcrZ7BqPZQ",
+  "duration": "PT1M23S",
+  "regionsAllowed": "US"
+}
+
+
+
 </script>
