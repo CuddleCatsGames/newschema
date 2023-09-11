@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/vermont-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/vermont-auto-shipping",
+  "name": "Vermont Auto Shipping",
+  "description": "If you're moving to or from Vermont, you may be wondering how to transport your vehicle. The process can be time-consuming, stressful and expensive, especially if you're dealing with an unreliable company.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/vermont-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=-mtJHhaS51w",
+  "embedUrl": "https://www.youtube.com/embed/-mtJHhaS51w",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+</script>
