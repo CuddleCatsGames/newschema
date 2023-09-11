@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/alaska-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/alaska-auto-shipping",
+  "name": "Alaska Auto Shipping",
+  "description": "Alaska is a beautiful, remote state that is often considered an ideal place for auto shipping. However, it is important to note that shipping a vehicle to Alaska is quite different than shipping a vehicle elsewhere in the United States. Before you begin planning your auto shipping to Alaska, there are a few important points to consider.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/alaska-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=2I4zndOpLxA",
+  "embedUrl": "https://www.youtube.com/embed/2I4zndOpLxA",
+  "duration": "PT1M25S",
+  "regionsAllowed": "US"
+}
+</script>
