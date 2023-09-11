@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/montana-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/montana-auto-shipping",
+  "name": "Montana Auto Shipping",
+  "description": "When it comes to shipping a vehicle in Montana, it's important to choose a reliable and experienced auto shipping company. That's where Power2Ship comes in. We are a leading provider of auto shipping services in Montana!",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/montana-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=SQuoTmzvWeI",
+  "embedUrl": "https://www.youtube.com/embed/SQuoTmzvWeI",
+  "duration": "PT1M12S",
+  "regionsAllowed": "US"
+}
+</script>
