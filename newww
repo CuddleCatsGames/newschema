@@ -377,6 +377,245 @@
   "duration": "PT1M23S",
   "regionsAllowed": "US"
 }
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/vermont-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/vermont-auto-shipping",
+  "name": "Vermont Auto Shipping",
+  "description": "If you're moving to or from Vermont, you may be wondering how to transport your vehicle. The process can be time-consuming, stressful and expensive, especially if you're dealing with an unreliable company.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/vermont-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=-mtJHhaS51w",
+  "embedUrl": "https://www.youtube.com/embed/-mtJHhaS51w",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/alabama-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/alabama-auto-shipping",
+  "name": "Alabama Auto Shipping",
+  "description": "Alabama is a great place to live and work, and it's also a great place to ship a vehicle. With its wide open roads, beautiful scenery, and friendly people, Alabama is the perfect place for auto shipping.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/alabama-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=geF80TVLEMQ",
+  "embedUrl": "https://www.youtube.com/embed/geF80TVLEMQ",
+  "duration": "PT1M29S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/arkansas-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/arkansas-auto-shipping",
+  "name": "Arkansas Auto Shipping",
+  "description": "Are you looking to ship a vehicle to or from Arkansas? Power2Ship is here to help! We’re the premier auto shipping company in Arkansas and we can provide you with safe, reliable, and affordable transportation services for your vehicle.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/arkansas-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=waSHJ_zCvIw",
+  "embedUrl": "https://www.youtube.com/embed/waSHJ_zCvIw",
+  "duration": "PT1M23S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/colorado-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/colorado-auto-shipping",
+  "name": "Colorado Auto Shipping",
+  "description": "Are you looking to ship a vehicle to or from Colorado? Power2Ship can help you find reliable, experienced and affordable auto shipping companies in Colorado to transport your car, motorcycle, RV, boat, or other vehicle safely and securely. ",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/colorado-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=Y3LlpBZtkDY",
+  "embedUrl": "https://www.youtube.com/embed/Y3LlpBZtkDY",
+  "duration": "PT1M22S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/alaska-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/alaska-auto-shipping",
+  "name": "Alaska Auto Shipping",
+  "description": "Alaska is a beautiful, remote state that is often considered an ideal place for auto shipping. However, it is important to note that shipping a vehicle to Alaska is quite different than shipping a vehicle elsewhere in the United States. Before you begin planning your auto shipping to Alaska, there are a few important points to consider.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/alaska-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=2I4zndOpLxA",
+  "embedUrl": "https://www.youtube.com/embed/2I4zndOpLxA",
+  "duration": "PT1M25S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/virginia-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/virginia-auto-shipping",
+  "name": "Virginia Auto Shipping",
+  "description": "Are you in need of an efficient and cost-effective solution for transporting your vehicle from Virginia? Look no further than Power2Ship, the leading provider of auto shipping services in the state. With their innovative technology and dedicated team of professionals, Power2Ship has made it easier than ever to ship your vehicle from Virginia to anywhere in the country.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/virginia-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=dj-_XTT3CMc",
+  "embedUrl": "https://www.youtube.com/embed/dj-_XTT3CMc",
+  "duration": "PT1M34S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/pennsylvania-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/pennsylvania-auto-shipping",
+  "name": "Pennsylvania Auto Shipping",
+  "description": "If you're looking for an auto shipping company in Pennsylvania that can provide affordable pricing, convenient pickup and delivery, safe and reliable transportation, comprehensive insurance coverage, and excellent customer service, look no further than Power2Ship. ",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/pennsylvania-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=cxvWkCHCVYg",
+  "embedUrl": "https://www.youtube.com/embed/cxvWkCHCVYg",
+  "duration": "PT1M34S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/south-carolina-shipping#videoObject",
+  "url": "https://www.power2ship.com/south-carolina-shipping",
+  "name": "South Carolina Auto Shipping",
+  "description": "If you're looking for an auto shipping company in South Carolina that can provide affordable pricing, convenient pickup and delivery, safe and reliable transportation, comprehensive insurance coverage, and excellent customer service, look no further than Power2Ship. ",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/south-carolina-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=OpICH6ILR74",
+  "embedUrl": "https://www.youtube.com/embed/OpICH6ILR74",
+  "duration": "PT1M14S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/north-carolina-shipping#videoObject",
+  "url": "https://www.power2ship.com/north-carolina-shipping",
+  "name": "North Carolina Auto Shipping",
+  "description": "North Carolina auto shipping by Power2Ship is a reliable and cost-effective solution for those looking to transport their vehicles within North Carolina or to other states. Power2Ship offers door-to-door service, meaning that your vehicle will be picked up from your location and delivered directly to your destination, saving you the time and hassle of driving it yourself.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/north-carolina-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=5aebVcXIcWo",
+  "embedUrl": "https://www.youtube.com/embed/5aebVcXIcWo",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/kentucky-shipping#videoObject",
+  "url": "https://www.power2ship.com/kentucky-shipping",
+  "name": "Kentucky Auto Shipping",
+  "description": "If you are in need of auto shipping services in Kentucky, look no further than Power2Ship. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Kentucky or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/kentucky-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=iLvCvP88qeI",
+  "embedUrl": "https://www.youtube.com/embed/iLvCvP88qeI",
+  "duration": "PT1M37S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/florida-shipping#videoObject",
+  "url": "https://www.power2ship.com/florida-shipping",
+  "name": "Florida Auto Shipping",
+  "description": "If you're looking for a reliable out of state auto transport company in Florida, consider working with Power2Ship. Our team of experienced professionals provides the highest quality of service and is dedicated to getting your vehicle safely to its destination.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/florida-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=G8oBjfDkcTs",
+  "embedUrl": "https://www.youtube.com/embed/G8oBjfDkcTs",
+  "duration": "PT1M36S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-hampshire-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-hampshire-shipping",
+  "name": "New Hampshire Auto Shipping",
+  "description": "If you're looking for a reliable out of state auto transport company in New Hampshire, consider working with Power2Ship. Our team of experienced professionals provides the highest quality of service and is dedicated to getting your vehicle safely to its destination.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-hampshire-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=uP5TPG5B1tg",
+  "embedUrl": "https://www.youtube.com/embed/uP5TPG5B1tg",
+  "duration": "PT1M36S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/maine-shipping#videoObject",
+  "url": "https://www.power2ship.com/maine-shipping",
+  "name": "Maine Auto Shipping",
+  "description": "If you're in need of auto shipping services in Maine, look no further than Power2Ship. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Maine or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/maine-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=IeWcYb1y85s",
+  "embedUrl": "https://www.youtube.com/embed/IeWcYb1y85s",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/massachusetts-shipping#videoObject",
+  "url": "https://www.power2ship.com/massachusetts-shipping",
+  "name": "Massachusetts Auto Shipping",
+  "description": "When it comes to auto shipping in Massachusetts, trust Power2Ship to get the job done. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Massachusetts or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/massachusetts-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=cg1nhHRUR6c",
+  "embedUrl": "https://www.youtube.com/embed/cg1nhHRUR6c",
+  "duration": "PT1M17S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/maryland-shipping#videoObject",
+  "url": "https://www.power2ship.com/maryland-shipping",
+  "name": "Maryland Auto Shipping",
+  "description": "If you're in need of auto shipping services in Maryland, look no further than Power2Ship. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Maryland or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/maryland-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=OUf30fmHu30",
+  "embedUrl": "https://www.youtube.com/embed/OUf30fmHu30",
+  "duration": "PT1M14S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/hawaii-shipping#videoObject",
+  "url": "https://www.power2ship.com/hawaii-shipping",
+  "name": "Hawaii Auto Shipping",
+  "description": "Hawaii auto shipping can be a stressful process, but it doesn't have to be! With Power2Ship, you can find the best auto shipping company for
+ your needs.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/hawaii-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=q4liw4fiP1c",
+  "embedUrl": "https://www.youtube.com/embed/q4liw4fiP1c",
+  "duration": "PT1M37S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-jersey-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-jersey-shipping",
+  "name": "New Jersey Auto Shipping",
+  "description": "Auto shipping is a vital part of vehicle transportation and can be especially important for those moving to or from New Jersey. New Jersey residents and businesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-jersey-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=Ftfa4KBJ9c0&t=4s",
+  "embedUrl": "https://www.youtube.com/embed/Ftfa4KBJ9c0&t=4s",
+  "duration": "PT1M23S",
+  "regionsAllowed": "US"
+}
 
 
 
