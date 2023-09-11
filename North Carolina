@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/north-carolina-shipping#videoObject",
+  "url": "https://www.power2ship.com/north-carolina-shipping",
+  "name": "North Carolina Auto Shipping",
+  "description": "North Carolina auto shipping by Power2Ship is a reliable and cost-effective solution for those looking to transport their vehicles within North Carolina or to other states. Power2Ship offers door-to-door service, meaning that your vehicle will be picked up from your location and delivered directly to your destination, saving you the time and hassle of driving it yourself.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/north-carolina-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=5aebVcXIcWo",
+  "embedUrl": "https://www.youtube.com/embed/5aebVcXIcWo",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+</script>
