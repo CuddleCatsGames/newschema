@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/california-shipping#videoObject",
+  "url": "https://www.power2ship.com/california-shipping",
+  "name": "California Auto Shipping",
+  "description": "Whether you’re relocating to the Golden State or just looking to have your car shipped from one end of California to the other, Power2Ship is here to help you determine your auto shipping needs.",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=jlpeypUp7TU",
+  "embedUrl": "https://www.youtube.com/embed/jlpeypUp7TU",
+  "duration": "PT1M29S",
+  "regionsAllowed": "US"
+}
+</script>
