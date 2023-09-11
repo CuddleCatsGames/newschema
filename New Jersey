@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-jersey-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-jersey-shipping",
+  "name": "New Jersey Auto Shipping",
+  "description": "Auto shipping is a vital part of vehicle transportation and can be especially important for those moving to or from New Jersey. New Jersey residents and businesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-jersey-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=Ftfa4KBJ9c0&t=4s",
+  "embedUrl": "https://www.youtube.com/embed/Ftfa4KBJ9c0&t=4s",
+  "duration": "PT1M23S",
+  "regionsAllowed": "US"
+}
+</script>
