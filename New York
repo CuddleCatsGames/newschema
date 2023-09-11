@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-york-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-york-shipping",
+  "name": "New York Auto Shipping",
+  "description": "Auto shipping is a crucial part of vehicle transportation and can be especially important for those moving to or from New York. From open trailers to enclosed trailers, Power2Ship has the perfect solution for shipping cars, trucks, motorcycles, and even boats!",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-york-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=J9Apq2KtD0s",
+  "embedUrl": "https://www.youtube.com/embed/J9Apq2KtD0s",
+  "duration": "PT1M33S",
+  "regionsAllowed": "US"
+}
+</script>
