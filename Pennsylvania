@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/pennsylvania-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/pennsylvania-auto-shipping",
+  "name": "Pennsylvania Auto Shipping",
+  "description": "If you're looking for an auto shipping company in Pennsylvania that can provide affordable pricing, convenient pickup and delivery, safe and reliable transportation, comprehensive insurance coverage, and excellent customer service, look no further than Power2Ship. ",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/pennsylvania-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=cxvWkCHCVYg",
+  "embedUrl": "https://www.youtube.com/embed/cxvWkCHCVYg",
+  "duration": "PT1M34S",
+  "regionsAllowed": "US"
+}
+</script>
