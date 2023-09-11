@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/tennessee-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/tennessee-auto-shipping",
+  "name": "Tennessee Auto Shipping",
+  "description": "Are you planning to transport your vehicle to or from Tennessee? Look no further than Power2Ship for a stress-free and reliable auto shipping experience.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/tennessee-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=84XkiMftMWY",
+  "embedUrl": "https://www.youtube.com/embed/84XkiMftMWY",
+  "duration": "PT1M05S",
+  "regionsAllowed": "US"
+}
+</script>
