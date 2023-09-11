@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/georgia-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/georgia-auto-shipping",
+  "name": "Georgia Auto Shipping",
+  "description": "Power2Ship is the perfect choice for auto shipping to and from Georgia. We offer competitive rates and reliable service, so you can trust that your vehicle will be shipped safely and on time. Our team of experienced professionals will work with you to ensure that your vehicle is shipped safely and securely.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/georgia-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=SG9lAif2qxI",
+  "embedUrl": "https://www.youtube.com/embed/SG9lAif2qxI",
+  "duration": "PT0M53S",
+  "regionsAllowed": "US"
+}
+</script>
