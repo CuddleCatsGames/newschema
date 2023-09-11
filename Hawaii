@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/hawaii-shipping#videoObject",
+  "url": "https://www.power2ship.com/hawaii-shipping",
+  "name": "Hawaii Auto Shipping",
+  "description": "Hawaii auto shipping can be a stressful process, but it doesn't have to be! With Power2Ship, you can find the best auto shipping company for your needs.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/hawaii-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=q4liw4fiP1c",
+  "embedUrl": "https://www.youtube.com/embed/q4liw4fiP1c",
+  "duration": "PT1M37S",
+  "regionsAllowed": "US"
+}
+</script>
