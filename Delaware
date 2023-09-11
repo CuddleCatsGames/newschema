@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/delaware-shipping#videoObject",
+  "url": "https://www.power2ship.com/delaware-shipping",
+  "name": "Delaware Auto Shipping",
+  "description": "Are you looking for an easy and reliable way to ship a vehicle to or from Delaware? Look no further than Power2Ship for your Delaware auto shipping needs. Our experienced team of auto transport professionals is here to provide you with a hassle-free car shipping experience that’s tailored to meet your needs and budget.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/delaware-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=qGggRe7OGhU",
+  "embedUrl": "https://www.youtube.com/embed/qGggRe7OGhU",
+  "duration": "PT1M31S",
+  "regionsAllowed": "US"
+}
+</script>
