@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/idaho-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/idaho-auto-shipping",
+  "name": "Idaho Auto Shipping",
+  "description": "At Power2Ship, we’re committed to providing the best Idaho auto shipping services available. Our team of experienced professionals is here to help make your shipping experience as stress-free as possible.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/idaho-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=NeLpxpEJqKQ",
+  "embedUrl": "https://www.youtube.com/embed/NeLpxpEJqKQ.replace",
+  "duration": "PT1M13S",
+  "regionsAllowed": "US"
+}
+</script>
