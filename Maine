@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/maine-shipping#videoObject",
+  "url": "https://www.power2ship.com/maine-shipping",
+  "name": "Maine Auto Shipping",
+  "description": "If you're in need of auto shipping services in Maine, look no further than Power2Ship. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Maine or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/maine-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=IeWcYb1y85s",
+  "embedUrl": "https://www.youtube.com/embed/IeWcYb1y85s",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+</script>
