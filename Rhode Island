@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/rhode-island-shipping#videoObject",
+  "url": "https://www.power2ship.com/rhode-island-shipping",
+  "name": "Rhode Island Auto Shipping",
+  "description": "Are you looking to transport your vehicle to or from Rhode Island but don't want to drive it yourself? Power2Ship offers reliable and efficient auto shipping services to make your life easier. With years of experience, we have developed a reputation for providing top-notch services to our customers.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/rhode-island-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=yrEX1KBpsAQ",
+  "embedUrl": "https://www.youtube.com/embed/yrEX1KBpsAQ",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+</script>
