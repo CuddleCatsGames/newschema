@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/texas-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/texas-auto-shipping",
+  "name": "Texas Auto Shipping",
+  "description": "Are you moving to Texas or shipping a car within the state? Look no further than Power2Ship for your auto shipping needs.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/utah-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=6WLLvUhgOQ4",
+  "embedUrl": "https://www.youtube.com/embed/6WLLvUhgOQ4.replace",
+  "duration": "PT1M12S",
+  "regionsAllowed": "US"
+}
+</script>
