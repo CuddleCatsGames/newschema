@@ -593,8 +593,7 @@
   "@id": "https://www.power2ship.com/hawaii-shipping#videoObject",
   "url": "https://www.power2ship.com/hawaii-shipping",
   "name": "Hawaii Auto Shipping",
-  "description": "Hawaii auto shipping can be a stressful process, but it doesn't have to be! With Power2Ship, you can find the best auto shipping company for
- your needs.",
+  "description": "Hawaii auto shipping can be a stressful process, but it doesn't have to be! With Power2Ship, you can find the best auto shipping company for your needs.",
   "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/hawaii-auto-shipping.png",
   "uploadDate": "2023-06-21",
   "contentUrl": "https://www.youtube.com/watch?v=q4liw4fiP1c",
@@ -616,7 +615,73 @@
   "duration": "PT1M23S",
   "regionsAllowed": "US"
 }
-
-
-
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/rhode-island-shipping#videoObject",
+  "url": "https://www.power2ship.com/rhode-island-shipping",
+  "name": "Rhode Island Auto Shipping",
+  "description": "Are you looking to transport your vehicle to or from Rhode Island but don't want to drive it yourself? Power2Ship offers reliable and efficient auto shipping services to make your life easier. With years of experience, we have developed a reputation for providing top-notch services to our customers.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/rhode-island-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=yrEX1KBpsAQ",
+  "embedUrl": "https://www.youtube.com/embed/yrEX1KBpsAQ",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/delaware-shipping#videoObject",
+  "url": "https://www.power2ship.com/delaware-shipping",
+  "name": "Delaware Auto Shipping",
+  "description": "Are you looking for an easy and reliable way to ship a vehicle to or from Delaware? Look no further than Power2Ship for your Delaware auto shipping needs. Our experienced team of auto transport professionals is here to provide you with a hassle-free car shipping experience that’s tailored to meet your needs and budget.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/delaware-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=qGggRe7OGhU",
+  "embedUrl": "https://www.youtube.com/embed/qGggRe7OGhU",
+  "duration": "PT1M31S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/connecticut-shipping#videoObject",
+  "url": "https://www.power2ship.com/connecticut-shipping",
+  "name": "Connecticut Auto Shipping",
+  "description": "Connecticut Auto Shipping by Power2Ship is the premier provider of auto shipping services in the state of Connecticut. We offer a variety of services to meet your auto shipping needs, from door-to-door delivery to terminal-to-terminal delivery and much more.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/connecticut-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=JRNL2Z2_mnk",
+  "embedUrl": "https://www.youtube.com/embed/JRNL2Z2_mnk",
+  "duration": "PT2M02S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-york-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-york-shipping",
+  "name": "New York Auto Shipping",
+  "description": "Auto shipping is a crucial part of vehicle transportation and can be especially important for those moving to or from New York. From open trailers to enclosed trailers, Power2Ship has the perfect solution for shipping cars, trucks, motorcycles, and even boats!",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-york-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=J9Apq2KtD0s",
+  "embedUrl": "https://www.youtube.com/embed/J9Apq2KtD0s",
+  "duration": "PT1M33S",
+  "regionsAllowed": "US"
+}
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/california-shipping#videoObject",
+  "url": "https://www.power2ship.com/california-shipping",
+  "name": "California Auto Shipping",
+  "description": "Whether you’re relocating to the Golden State or just looking to have your car shipped from one end of California to the other, Power2Ship is here to help you determine your auto shipping needs.",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=jlpeypUp7TU",
+  "embedUrl": "https://www.youtube.com/embed/jlpeypUp7TU",
+  "duration": "PT1M29S",
+  "regionsAllowed": "US"
+}
 </script>
