@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/kansas-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/kansas-auto-shipping",
+  "name": "Kansas Auto Shipping",
+  "description": "If you are looking for a reliable and affordable auto shipping service in Kansas, then look no further than Power2Ship.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/kansas-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=Sn7BYKN2-7M",
+  "embedUrl": "https://www.youtube.com/embed/Sn7BYKN2-7M.replace",
+  "duration": "PT1M13S",
+  "regionsAllowed": "US"
+}
