@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/arkansas-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/arkansas-auto-shipping",
+  "name": "Arkansas Auto Shipping",
+  "description": "Are you looking to ship a vehicle to or from Arkansas? Power2Ship is here to help! We’re the premier auto shipping company in Arkansas and we can provide you with safe, reliable, and affordable transportation services for your vehicle.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/arkansas-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=waSHJ_zCvIw",
+  "embedUrl": "https://www.youtube.com/embed/waSHJ_zCvIw",
+  "duration": "PT1M23S",
+  "regionsAllowed": "US"
+}
+</script>
