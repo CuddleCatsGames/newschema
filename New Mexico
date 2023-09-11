@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/new-mexico-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/new-mexico-auto-shipping",
+  "name": "New Mexico Auto Shipping",
+  "description": "Auto shipping is a crucial aspect of vehicle transportation and can be especially important for those moving to or from New Mexico. New Mexico residents and businesses in need of auto shipping services can trust Power2Ship for reliable and efficient service.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/new-mexico-auto-shipping.png",
+  "uploadDate": "2023-06-09",
+  "contentUrl": "video.https://www.youtube.com/watch?v=n6ut_3gn9rE",
+  "embedUrl": "https://www.youtube.com/embed/n6ut_3gn9rE.replace",
+  "duration": "PT1M19S",
+  "regionsAllowed": "US"
+}
+</script>
