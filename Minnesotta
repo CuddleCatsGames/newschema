@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/minnesota-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/minnesota-auto-shipping",
+  "name": "Minnesota Auto Shipping",
+  "description": "When it comes to shipping your vehicle in Minnesota, Power2Ship has you covered. Our team of experienced professionals provides reliable, affordable, and efficient auto shipping services throughout the state and beyond.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/minnesota-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=DJD21eNyypM",
+  "embedUrl": "https://www.youtube.com/embed/DJD21eNyypM.replace",
+  "duration": "PT0M58S",
+  "regionsAllowed": "US"
+}
+</script>
