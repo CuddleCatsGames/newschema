@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/colorado-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/colorado-auto-shipping",
+  "name": "Colorado Auto Shipping",
+  "description": "Are you looking to ship a vehicle to or from Colorado? Power2Ship can help you find reliable, experienced and affordable auto shipping companies in Colorado to transport your car, motorcycle, RV, boat, or other vehicle safely and securely. ",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/colorado-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=Y3LlpBZtkDY",
+  "embedUrl": "https://www.youtube.com/embed/Y3LlpBZtkDY",
+  "duration": "PT1M22S",
+  "regionsAllowed": "US"
+}
+</script>
