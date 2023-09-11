@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/north-dakota-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/north-dakota-auto-shipping",
+  "name": "North Dakota Auto Shipping",
+  "description": "If you're looking to ship your car to or from North Dakota, you want a company that you can trust to get the job done right. That's where Power2Ship comes in. With years of experience and a commitment to quality service, we're your go-to choice for auto shipping in North Dakota.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/north-dakota-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=zHI1IjZ2Xzw",
+  "embedUrl": "https://www.youtube.com/embed/zHI1IjZ2Xzw.replace",
+  "duration": "PT1M09S",
+  "regionsAllowed": "US"
+}
+</script>
