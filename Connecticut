@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/connecticut-shipping#videoObject",
+  "url": "https://www.power2ship.com/connecticut-shipping",
+  "name": "Connecticut Auto Shipping",
+  "description": "Connecticut Auto Shipping by Power2Ship is the premier provider of auto shipping services in the state of Connecticut. We offer a variety of services to meet your auto shipping needs, from door-to-door delivery to terminal-to-terminal delivery and much more.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/connecticut-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=JRNL2Z2_mnk",
+  "embedUrl": "https://www.youtube.com/embed/JRNL2Z2_mnk",
+  "duration": "PT2M02S",
+  "regionsAllowed": "US"
+}
+</script>
