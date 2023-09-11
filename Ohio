@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/ohio-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/ohio-auto-shipping",
+  "name": "Ohio Auto Shipping",
+  "description": "When it comes to shipping your car to or from Ohio, you want a company that you can trust to get the job done right. That's where Power2Ship comes in. With years of experience and a commitment to quality service, we're your go-to choice for auto shipping in Ohio.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/ohio-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=z9aHMiJbsyw",
+  "embedUrl": "https://www.youtube.com/embed/z9aHMiJbsyw.replace",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+</script>
