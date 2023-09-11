@@ -1,5 +1,4 @@
 <script type="application/ld+json">
-
 {
   "@context": "https://schema.org",
   "@type": "VideoObject",
@@ -14,3 +13,4 @@
   "duration": "PT1M5S",
   "regionsAllowed": "US"
 }
+</script>
