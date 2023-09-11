@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/nebraska-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/nebraska-auto-shipping",
+  "name": "Nebraska Auto Shipping",
+  "description": "Are you looking for a reliable and affordable solution for shipping your vehicle to or from Nebraska? Look no further than Power2Ship. Our team of experienced professionals is dedicated to providing top-notch auto shipping services to customers throughout the state.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/nebraska-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "video.https://www.youtube.com/watch?v=cj7mBffVPW8",
+  "embedUrl": "video.https://www.youtube.com/embed/cj7mBffVPW8.replace",
+  "duration": "PT1M31S",
+  "regionsAllowed": "US"
+}
+</script>
