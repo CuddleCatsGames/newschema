@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/alabama-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/alabama-auto-shipping",
+  "name": "Alabama Auto Shipping",
+  "description": "Alabama is a great place to live and work, and it's also a great place to ship a vehicle. With its wide open roads, beautiful scenery, and friendly people, Alabama is the perfect place for auto shipping.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/alabama-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=geF80TVLEMQ",
+  "embedUrl": "https://www.youtube.com/embed/geF80TVLEMQ",
+  "duration": "PT1M29S",
+  "regionsAllowed": "US"
+}
+</script>
