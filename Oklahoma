@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/oklahoma-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/oklahoma-auto-shipping",
+  "name": "Oklahoma Auto Shipping",
+  "description": "Are you looking to transport your vehicle from or to Oklahoma? Power2Ship is here to make your auto shipping experience hassle-free and convenient.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/oklahoma-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=-O6P0tF1Fss",
+  "embedUrl": "https://www.youtube.com/embed/-O6P0tF1Fss.replace",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+</script>
