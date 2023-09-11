@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/washington-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/washington-auto-shipping",
+  "name": "Washington Auto Shipping",
+  "description": "Washington is a hub for automobile transportation, and Power2Ship is a reliable and efficient auto shipping company that operates from this state.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/washington-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=bjpPS8hPI6s",
+  "embedUrl": "https://www.youtube.com/embed/bjpPS8hPI6s",
+  "duration": "PT1M16S",
+  "regionsAllowed": "US"
+}
+</script>
