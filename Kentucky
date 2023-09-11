@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/kentucky-shipping#videoObject",
+  "url": "https://www.power2ship.com/kentucky-shipping",
+  "name": "Kentucky Auto Shipping",
+  "description": "If you are in need of auto shipping services in Kentucky, look no further than Power2Ship. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Kentucky or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/kentucky-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=iLvCvP88qeI",
+  "embedUrl": "https://www.youtube.com/embed/iLvCvP88qeI",
+  "duration": "PT1M37S",
+  "regionsAllowed": "US"
+}
+</script>
