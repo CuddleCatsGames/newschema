@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/oregon-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/oregon-auto-shipping",
+  "name": "Oregon Auto Shipping",
+  "description": "Are you looking to ship your vehicle to or from the beautiful state of Oregon? Look no further than Power2Ship, the leading provider of autoshipping services in the Pacific Northwest.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/oregon-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=mpBhxXYJ4oA",
+  "embedUrl": "https://www.youtube.com/embed/mpBhxXYJ4oA",
+  "duration": "PT1M20S",
+  "regionsAllowed": "US"
+}
+</script>
