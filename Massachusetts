@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/massachusetts-shipping#videoObject",
+  "url": "https://www.power2ship.com/massachusetts-shipping",
+  "name": "Massachusetts Auto Shipping",
+  "description": "When it comes to auto shipping in Massachusetts, trust Power2Ship to get the job done. Our team of experts provides safe, secure, and reliable transportation for your vehicle from one location to another, anywhere in Massachusetts or the surrounding states.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/massachusetts-auto-shipping.png",
+  "uploadDate": "2023-06-21",
+  "contentUrl": "https://www.youtube.com/watch?v=cg1nhHRUR6c",
+  "embedUrl": "https://www.youtube.com/embed/cg1nhHRUR6c",
+  "duration": "PT1M17S",
+  "regionsAllowed": "US"
+}
+</script>
