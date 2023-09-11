@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/michigan-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/michigan-auto-shipping",
+  "name": "Michigan Auto Shipping",
+  "description": "If you're looking for a reliable and affordable solution for auto shipping in Michigan, look no further than Power2Ship. Our team of experts provides safe and secure transportation for your vehicle, no matter where you need it shipped within the state or beyond.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/michigan-auto-shipping.png",
+  "uploadDate": "2023-06-27",
+  "contentUrl": "https://www.youtube.com/watch?v=U4jtc3oV02c",
+  "embedUrl": "https://www.youtube.com/embed/U4jtc3oV02c",
+  "duration": "PT1M05S",
+  "regionsAllowed": "US"
+}
+</script>
