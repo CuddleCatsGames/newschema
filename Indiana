@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/indiana-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/indiana-auto-shipping",
+  "name": "Indiana Auto Shipping",
+  "description": "With our fast, reliable, and affordable services, you can count on us to get your vehicle safely and on time. Get a quote today and see why Power2Ship is the best choice for auto shipping in Indiana.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/indiana-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=WEjFxXntT-8",
+  "embedUrl": "https://www.youtube.com/embed/WEjFxXntT-8.replace",
+  "duration": "PT0M59S",
+  "regionsAllowed": "US"
+}
+</script>
