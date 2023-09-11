@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/utah-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/utah-auto-shipping",
+  "name": "Utah Auto Shipping",
+  "description": "Auto shipping is a convenient and stress-free way to transport your vehicle from one place to another. Whether you're relocating to Utah or simply moving a car across town, Power2Ship is the top choice for Utah auto shipping.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/utah-auto-shipping.png",
+  "uploadDate": "2023-08-02",
+  "contentUrl": "https://www.youtube.com/watch?v=-5rHW6sug8g",
+  "embedUrl": "https://www.youtube.com/embed/-5rHW6sug8g.replace",
+  "duration": "PT0M56S",
+  "regionsAllowed": "US"
+}
+</script>
