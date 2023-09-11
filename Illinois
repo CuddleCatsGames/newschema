@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/illinois-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/illinois-auto-shipping",
+  "name": "Illinois Auto Shipping",
+  "description": "If you're looking for a reliable auto transport service in Illinois, you can't go wrong with Power2Ship. We're the leading provider of auto shipping services for customers who need to transport their vehicle from one residence to another.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/illinois-auto-shipping.png",
+  "uploadDate": "2023-08-03",
+  "contentUrl": "https://www.youtube.com/watch?v=zPXmK4LLgZo",
+  "embedUrl": "https://www.youtube.com/embed/zPXmK4LLgZo.replace",
+  "duration": "PT1M11S",
+  "regionsAllowed": "US"
+}
+</script>
