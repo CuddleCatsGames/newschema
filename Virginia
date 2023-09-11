@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://www.power2ship.com/virginia-auto-shipping#videoObject",
+  "url": "https://www.power2ship.com/virginia-auto-shipping",
+  "name": "Virginia Auto Shipping",
+  "description": "Are you in need of an efficient and cost-effective solution for transporting your vehicle from Virginia? Look no further than Power2Ship, the leading provider of auto shipping services in the state. With their innovative technology and dedicated team of professionals, Power2Ship has made it easier than ever to ship your vehicle from Virginia to anywhere in the country.",
+  "thumbnailUrl": "https://www.power2ship.com/assets/front/images/youtube-thumbnails/virginia-auto-shipping.png",
+  "uploadDate": "2023-06-22",
+  "contentUrl": "https://www.youtube.com/watch?v=dj-_XTT3CMc",
+  "embedUrl": "https://www.youtube.com/embed/dj-_XTT3CMc",
+  "duration": "PT1M34S",
+  "regionsAllowed": "US"
+}
+</script>
